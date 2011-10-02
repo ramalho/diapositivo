@@ -1,0 +1,14 @@
+Este é um projeto muito simples para fazer apresentações de slides usando
+HTML5+CSS+JS. O ponto de partida foi copiar o template do projeto 5lide da
+Pamela Fox do Google [1], que por sua vez foi extraído dos exemplos dos
+evangelistas de HTML5 do site HTML5rocks [2], que também são do Google.
+
+[1] https://github.com/pamelafox/5lide
+[2] http://slides.html5rocks.com/
+
+O próximo passo foi jogar fora milhares de linhas de código, porque o que eu
+quero fazer é apenas apresentações que funcionem off-line, e não um sistema de
+edição e armazenagem de slides na nuvem, como fez a Pamela, porque maioria das
+vezes quando dou palestra meu computador não está conectado.
+
+O código deles, e esse aqui, é Open Source pela licença Apache.
